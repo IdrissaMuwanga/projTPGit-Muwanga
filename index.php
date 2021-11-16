@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo'bonjour de Muwanga'
+        echo'bonjour de Muwanga';
+        echo'seconde ligne de programme pour utilisateur Muwanga';
         ?>
     </body>
 </html>
