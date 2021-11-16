@@ -11,8 +11,11 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+
         echo'bonjour de Muwanga';
         echo'seconde ligne de programme pour utilisateur Muwanga';
+        echo 'Ceci est une erreur de Muwanga qui a remplacé une ligne'
+
         ?>
     </body>
 </html>
