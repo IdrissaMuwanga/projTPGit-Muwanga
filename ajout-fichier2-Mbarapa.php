@@ -6,6 +6,6 @@
  * and open the template in the editor.
  */
 
- echo 'Le Fichier 2 projet Muwanga utilsateur Mbarapa'
+ echo 'Le fichier 2 projet Muwanga utilsateur Mbarapa'
  
 ?>
