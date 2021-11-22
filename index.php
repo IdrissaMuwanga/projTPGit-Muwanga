@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
 
         echo'bonjour de Muwanga';
-        echo'seconde ligne de programme pour utilisateur Muwanga';
+        echo'petite modif pour voir une diff';
 
         ?>
     </body>
